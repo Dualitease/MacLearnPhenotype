@@ -9,5 +9,9 @@
   #  duplicate 'row.names' are not allowed
   
   #potential fix, download each study from pubmed geo instead
+  # GSE28521, GSE28475, GSE35978, GSE53987, GSE17612, GSE12649,GSE21138, GSE54567, GSE54568, GSE54571, GSE54572, GSE29555,GSE1122
+#GSE28521 downloaded
+
+
 # train data
 # predict, test on other data
